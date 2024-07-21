@@ -1,2 +1,5 @@
 #ignoring specific file
-venv
+.idea/
+venv/
+
+ *.csv
